@@ -6,7 +6,8 @@
     background-position: center;
     color: #fff;
     display: flex;
-    align-items: center
+    align-items: center;
+    justify-content: center;
 }
 .hero-text{
     text-align: center;
