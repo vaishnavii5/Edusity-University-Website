@@ -35,7 +35,7 @@ const Contact = () => {
     <div className='contact'>
         <div className="contact-col">
             <h3>Send us a message <img src={msg_icon} alt="" /></h3>
-            <p>Feel free to reach out through contact form or find our contact information below. Your feedback,, questions, and sugfestions are important to us as we strive to provide exceptional service to our university community.</p>
+            <p>Feel free to reach out through contact form or find our contact information below. Your feedback, questions, and suggestions are important to us as we strive to provide exceptional service to our university community.</p>
             <ul>
                 <li><img src={mail_icon} alt="" />Contact@Edusity.dev</li>
                 <li><img src={phone_icon} alt="" />+1 123-456-7890</li>
